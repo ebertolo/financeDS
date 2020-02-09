@@ -1,8 +1,8 @@
 # financeDS
-Repository for finance data science experiments
+Repositório para experimentos de Data Science em Finanças
 
-# Libraries needed for this project
-Pip install tensorflow
+# Bibliotecas necessárias para nosso trabalho
+Pip install
 
-# Objectives
+# Objetivos
 fazer análises fundamentalistas com ferramentas do python
