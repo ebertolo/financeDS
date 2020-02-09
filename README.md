@@ -1,8 +1,12 @@
 # financeDS
 Repositório para experimentos de Data Science em Finanças
 
-# Bibliotecas necessárias para nosso trabalho
+# Instruçes para instalação de Bibliotecas 
 Pip install
 
 # Objetivos
 fazer análises fundamentalistas com ferramentas do python
+
+# Pressupostos
+
+# Resultados Finais
